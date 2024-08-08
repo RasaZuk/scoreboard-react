@@ -26,4 +26,4 @@ export function PointsB() {
     );
 }
 
-//naujas ikelimas
+//naujas ikelimas bandymAas
